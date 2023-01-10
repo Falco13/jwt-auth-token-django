@@ -17,5 +17,5 @@ __API end-points:__
 __Used tools:__    
 :heavy_check_mark: Python     
 :heavy_check_mark: Django REST Framework    
-:heavy_check_mark: PyJWT
+:heavy_check_mark: PyJWT      
 :heavy_check_mark: SQLite database    
