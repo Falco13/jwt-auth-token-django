@@ -123,3 +123,6 @@ AUTH_USER_MODEL = 'auth_app.User'
 REST_FRAMEWORK = {
     'EXCEPTION_HANDLER': 'auth_app.exception.status_code_handler',
 }
+
+ACCESS_TOKEN_SECRET = 'Access_secret_string_12345'
+REFRESH_TOKEN_SECRET = 'Refresh_secret_string_12345'
